@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:green;
+}
+header img {
+     width:70px;
+     height:80px;
+
+}
+footer {
+    background-color: green;
+}
+footer img {
+    width:70px;
+     height:80px;
+}
